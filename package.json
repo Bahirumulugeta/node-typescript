@@ -1,0 +1,26 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "node-typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahirumulugeta/node-typescript.git"
+  },
+  "author": "Bahiru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bahirumulugeta/node-typescript/issues"
+  },
+  "homepage": "https://github.com/Bahirumulugeta/node-typescript#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
